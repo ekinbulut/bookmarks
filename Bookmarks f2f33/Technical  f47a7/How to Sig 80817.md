@@ -549,4 +549,3 @@ to your bash profile or bashrc.
 - [https://docs.github.com/en/authentication/managing-commit-signature-verification](https://docs.github.com/en/authentication/managing-commit-signature-verification)
 - [https://www.gnupg.org/gph/en/manual/book1.html](https://www.gnupg.org/gph/en/manual/book1.html)
 - [https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff/](https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff/)
-- [https://github.com/yemeksepeti/ys-how-to-guides](https://github.com/yemeksepeti/ys-how-to-guides)
